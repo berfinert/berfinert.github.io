@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.berfinert.twa",
+        "sha256_cert_fingerprints": ["69:FB:FC:B5:31:C3:97:E7:BF:E2:DE:E6:87:D9:3E:14:A9:10:53:D9:34:F7:9A:4A:72:CF:F8:3A:A0:4C:BC:6B"]
+      }
+    }]
